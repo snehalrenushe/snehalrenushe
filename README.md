@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 <!--
 **snehalrenushe/snehalrenushe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **snehalrenushe@gmail.com**
 
-- ⚡ Fun fact **“One thing I cannot live without is My Laptop.**
+- ⚡ Fun fact **“One thing I cannot live without is My Laptop."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
