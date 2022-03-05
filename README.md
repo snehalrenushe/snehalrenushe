@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalrenushe&label=Profile%20views&color=0e75b6&style=flat" alt="snehalrenushe" /> </p>
 
 <!--<img align="right" alt="Coding" width=400 src="https://codersera.com/blog/wp-content/uploads/2019/09/female-developer.jpg"/>-->
-- 🔭 I’m currently working on College Projects.
+- 🔭 I’m currently working on Web Projects.
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Web Technologies**
 
-- 💬 Ask me about **C, C++ & SQL**
+- 💬 Ask me about **C# and SQL**
 
 - 📫 How to reach me **snehalrenushe@gmail.com**
 
