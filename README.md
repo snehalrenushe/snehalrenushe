@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <!--<img align="right" alt="Coding" width=400 src="https://codersera.com/blog/wp-content/uploads/2019/09/female-developer.jpg"/>-->
 - 🔭 I’m currently working on Web Projects.
 
-- 🌱 I’m currently learning **Web Technologies**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **C# and SQL**
+- 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **snehalrenushe@gmail.com**
 
