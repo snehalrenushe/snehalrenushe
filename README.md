@@ -1,8 +1,7 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3oyemkwMWlxc203emM1ZDMzaTl0cHhxZW5uZjB5Z3kzdTRyNnZoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AbYBOTjhYepx1n3zuJ/giphy.webp" width="100"/>
-</div>
-<h1 align="center">Hi 👋, I'm Snehal</h1>
-<div id="badges" align="center">
+  <h3>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Snehal</h3>
+  <br>
   <a href="https://www.linkedin.com/in/snehal-renushe-12a1b5213/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,8 +12,9 @@
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
+
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=snehalrenushe&label=Profile%20views&color=0e75b6&style=flat" alt="snehalrenushe" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=snehalrenushe&label=Profile%20views&color=0e75b6&style=flat" alt="snehalrenushe" /></p>
 <h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
 ---
@@ -54,4 +54,4 @@
 ---
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehalrenushe&show_icons=true&locale=en" alt="snehalrenushe" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehalrenushe&" alt="snehalrenushe" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehalrenushe&" alt="snehalrenushe" /></p>
