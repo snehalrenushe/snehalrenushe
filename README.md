@@ -22,7 +22,7 @@
 ### :woman_technologist: About Me :
 - 🔭 I’m currently working as Junior Angular Developer.
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Frontend**
 
