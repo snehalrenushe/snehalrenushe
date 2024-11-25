@@ -21,7 +21,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- 🔭 I’m currently working as Junior Angular Developer.
+- 🔭 I’m currently working as Ionic Developer.
 
 - 🌱 I’m currently learning **React**
 
